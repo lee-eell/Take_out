@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8af6a624-7a8d-4670-ad46-e9cb305ee123" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Develop\Java\apache-maven-3.6.1\mvn_resp" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Java/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Develop\Java\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2BRJNNK9lTcxvrBS7xxb6Ro17a2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.26666668" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2650357" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Develop\LearnJava\reggie_take_out\src\main\java\com\itheima\reggie\dto" />
+      <recent name="D:\Develop\LearnJava\reggie_take_out\src\main\java\com\itheima\reggie\entity" />
+      <recent name="D:\Develop\LearnJava\reggie_take_out\src\main\resources\backend\page\demo" />
+      <recent name="D:\Develop\LearnJava\reggie_take_out\src\main\java\com\itheima\reggie\common" />
+      <recent name="D:\Develop\LearnJava\reggie_take_out\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.itheima.reggie.entity" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.itheima.reggie.service.impl" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ReggieApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="reggie_take_out" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.reggie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.reggie.ReggieApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ReggieApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8af6a624-7a8d-4670-ad46-e9cb305ee123" name="Changes" comment="" />
+      <created>1656862923721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656862923721</updated>
+      <workItem from="1656862924979" duration="1941000" />
+      <workItem from="1656864908864" duration="27104000" />
+      <workItem from="1657049054588" duration="5298000" />
+      <workItem from="1657073320496" duration="6924000" />
+      <workItem from="1657123072271" duration="525000" />
+      <workItem from="1657123621063" duration="11452000" />
+      <workItem from="1657159792996" duration="570000" />
+      <workItem from="1657160384426" duration="14954000" />
+      <workItem from="1657224414120" duration="5073000" />
+      <workItem from="1657250045747" duration="66000" />
+      <workItem from="1657250127030" duration="894000" />
+      <workItem from="1657251045679" duration="6326000" />
+      <workItem from="1657292121440" duration="3542000" />
+      <workItem from="1657296486459" duration="20185000" />
+      <workItem from="1657505384599" duration="6080000" />
+      <workItem from="1657565014783" duration="8540000" />
+      <workItem from="1657935197501" duration="1678000" />
+      <workItem from="1658027420290" duration="7475000" />
+      <workItem from="1658504175890" duration="652000" />
+      <workItem from="1658693712981" duration="648000" />
+      <workItem from="1658694382632" duration="2067000" />
+      <workItem from="1658776214319" duration="1870000" />
+      <workItem from="1659750461389" duration="43000" />
+      <workItem from="1659965568521" duration="175000" />
+      <workItem from="1660526999297" duration="270000" />
+      <workItem from="1660832165389" duration="27000" />
+      <workItem from="1660924032765" duration="2027000" />
+      <workItem from="1661090420444" duration="742000" />
+      <workItem from="1661100569392" duration="635000" />
+      <workItem from="1661125371492" duration="86000" />
+      <workItem from="1661200997171" duration="598000" />
+      <workItem from="1661225256857" duration="55000" />
+      <workItem from="1661268268246" duration="46000" />
+      <workItem from="1661883055566" duration="119000" />
+      <workItem from="1661884778529" duration="391000" />
+      <workItem from="1661885189024" duration="526000" />
+      <workItem from="1661974787682" duration="110000" />
+      <workItem from="1662061995812" duration="10773000" />
+      <workItem from="1662127526961" duration="127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLIntegrityConstraintViolationException" package="java.sql" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="converters" language="JAVA" />
+        <watch expression="converters" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
