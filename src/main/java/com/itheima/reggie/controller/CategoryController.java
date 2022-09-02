@@ -39,9 +39,7 @@ public class CategoryController {
 //        queryWrapper.like(!StringUtils.isEmpty(name), Employee::getName, name);
         //添加排序条件
         queryWrapper.orderByAsc(Category::getUpdateTime);
-
         categoryService.page(pageInfo, queryWrapper);
-
         return R.success(pageInfo);
     }
 
